@@ -1,0 +1,55 @@
+/* universal selector */
+
+/* * {
+    color: tomato;
+    background-color: bisque;
+} */
+
+
+
+/* type selector */
+
+/* h1,div{
+    color: blue;
+
+}  */
+
+
+/* class selector */
+
+/* .my_class{
+    color: blueviolet;
+} */
+
+
+/* id selector */
+
+/* #my_id{
+    color: yellow;
+} */
+
+
+/* Child selector */
+
+/* ul>li{
+    color:chocolate;
+} */
+
+/* desecendent selector */
+
+/* div h2{
+    color: crimson;
+} */
+
+
+/* Adjacent sibling selector */
+
+/* h2+p{
+    color: firebrick;
+} */
+
+/* General Sibling selector */
+
+h2~p{
+    color: orange;
+}
